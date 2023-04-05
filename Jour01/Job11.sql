@@ -1,0 +1,1 @@
+mysql> select * from etudiants where prenom = 'gertrude';

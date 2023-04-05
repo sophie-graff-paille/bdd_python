@@ -1,0 +1,1 @@
+mysql> select count(*) from etudiants;
